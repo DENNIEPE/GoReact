@@ -1,1 +1,1 @@
-# GoLangReact
+# GoReact
