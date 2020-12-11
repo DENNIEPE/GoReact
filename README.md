@@ -1,2 +1,1 @@
 # GoLangReact
-# GolangReact
